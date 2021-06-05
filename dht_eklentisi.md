@@ -1,4 +1,4 @@
-mBlock 5 dht eklentisini kullanmak için Arduino kart seçiliyken uzantı merkezine girerek ext_9ffc97c4 numaralı proje kodu veya DHT Eklentisi 
+mBlock 5 dht eklentisini kullanmak için Arduino kart seçiliyken uzantı merkezine girerek **ext_9ffc97c4** numaralı proje kodu veya **DHT Eklentisi** 
 yazarak(büyük küçük harf duyarlılığına dikkat ederek) uzantıya erişebilirsiniz.
 
 

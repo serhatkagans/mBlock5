@@ -1,0 +1,5 @@
+mBlock 5 dht eklentisini kullanmak için Arduino kart seçiliyken uzantı merkezine girerek ext_78478c79 numaralı proje kodu veya ds3231 RTC modul eklentisi yazarak(büyük küçük harf duyarlılığına dikkat ederek) 
+uzantıya erişebilirsiniz.
+![DS3231](https://user-images.githubusercontent.com/47238858/121661344-c8fad700-caac-11eb-87fe-d3397c7ef282.PNG "eklenti bölümü")
+![DS3231](https://user-images.githubusercontent.com/47238858/121661349-c9936d80-caac-11eb-8aee-7274f29d2f1f.PNG "eklenti bölümü")
+![DS3231](https://user-images.githubusercontent.com/47238858/121661351-ca2c0400-caac-11eb-8081-be2d2a76ea6e.PNG "eklenti bölümü")
